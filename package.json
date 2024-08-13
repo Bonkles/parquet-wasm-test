@@ -1,0 +1,15 @@
+{
+  "name": "parquet-wasm-test",
+  "version": "1.0.0",
+  "description": "Local testing node server for examining parquet-wasm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Clark",
+  "license": "MIT",
+  "dependencies": {
+    "@geoarrow/geoarrow-wasm": "^0.2.0-beta.4",
+    "apache-arrow": "^15.0.2"
+  }
+}
